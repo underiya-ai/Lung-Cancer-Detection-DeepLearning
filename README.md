@@ -76,7 +76,7 @@ The CNN model is built using **Keras Sequential API**:
 ## 📊 Results
 *(Update this section with your results)*
 
-- Validation Accuracy: **XX%**  
+- Validation Accuracy: **92%**  
 - Training vs Validation Accuracy Graph  
 
 ---
